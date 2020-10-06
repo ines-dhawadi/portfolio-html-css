@@ -1,0 +1,37 @@
+#mg {
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    margin: 50;
+}
+
+.nav {
+    float: right;
+    font-size: 25px;
+    margin: 1px;
+    padding: 1px;
+    color: midnightblue;
+    border: 2px;
+    text-shadow: 2px 2px 4px rgba(1, 1, 185, 0.863);
+}
+
+hr {
+    margin: 3em;
+}
+
+#img {
+    width: 100px;
+    right: 100px;
+}
+
+#photo {
+    padding: 100pxs;
+    margin: 100px;
+    width: 400px;
+    right: 400px;
+}
+
+.par {
+    padding: 2px;
+    right: 300px;
+}
